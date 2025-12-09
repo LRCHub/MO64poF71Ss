@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "命にふさわしい",
+  "base_artist": "amazarashi",
+  "createdAt": "2025-12-09T06:06:57.495175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_命にふさわしい_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命にふさわしい acoustic version",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_命にふさわしい_acoustic_version_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_命にふさわしい_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_命にふさわしい_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "NieR",
+      "has_synced": true,
+      "path": "select/05_命にふさわしい_NieR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "命にふさわしい acoustic version",
+      "artist": "NieR",
+      "has_synced": true,
+      "path": "select/06_命にふさわしい_acoustic_version_NieR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/07_命にふさわしい_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "命にふさわしい - Inochini Fusawashii",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_命にふさわしい_-_Inochini_Fusawashii_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "命にふさわしい - Inochini Fusawashii",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/09_命にふさわしい_-_Inochini_Fusawashii_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "命にふさわしい",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/10_命にふさわしい_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "命にふさわしい / Inochini Fusawashii",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_命にふさわしい___Inochini_Fusawashii_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "命にふさわしい acoustic version",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/12_命にふさわしい_acoustic_version_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命にふさわしい",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_命にふさわしい_amazarashi.txt"
+    }
+  ]
+}
